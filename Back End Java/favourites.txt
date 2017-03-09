@@ -1,0 +1,1 @@
+{"tartu":{"radius":10.0,"latitude":59.440960248599865,"longitude":24.764054498161627,"query_count":3,"query_keyword":""},"tallinn":{"radius":10.0,"latitude":59.44081370940634,"longitude":24.76393110160731,"query_count":3,"query_keyword":""},"delhi":{"radius":23.66239942344341,"latitude":28.6517178,"longitude":77.2219388,"query_count":3,"query_keyword":"first"}}
